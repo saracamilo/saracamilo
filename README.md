@@ -28,7 +28,6 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-3498DB?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />

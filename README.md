@@ -13,9 +13,9 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 ## 👩‍💻 Sobre mim
 
 - 💼 **Atualmente:** Desenvolvedora na Sertão Dev, contribuindo para o projeto **Mapas Culturais**, uma plataforma de gestão cultural do Ceará.
-- 🎯 **Foco:** Desenvolvimento web full stack com especialização em PHP, Laravel, JavaScript e React. Também trabalho com Docker e versionamento de código usando Git.
+- 🎯 **Foco:** Desenvolvimento web full stack com especialização em PHP, Laravel, JavaScript HTML, CSS e React. Também trabalho com Docker e versionamento de código usando Git.
 - 🌱 **Aprendizado contínuo:** Sempre explorando novas tecnologias e metodologias ágeis para otimizar processos e entregar soluções de alta qualidade.
-- 🎨 **Interesses:** Desenvolvimento back-end, integração de APIs RESTful, boas práticas de programação e UX/UI design.
+- 🎨 **Interesses:** Desenvolvimento back-end, integração de APIs RESTful, boas práticas de programação.
 
 ## 💼 Experiência
 
@@ -36,6 +36,7 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 
 - 👩‍💻 **Analista de TI Nível 1**\
 📆 jan/2023 - fe
+📍 **Proxxi Tecnologia** - Brasil
  - Desenvolvimento de soluções em Software para o sistema do Banco Bradesco.
  - Foco na integração entre sistemas e otimização de processos administrativos.
 

@@ -70,6 +70,6 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akellymourab&show_icons=true&locale=en&layout=compact" alt="akellymourab" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akellymourab&show_icons=true&theme=tokyonight" alt="akellymourab" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saracamilo&show_icons=true&locale=en&layout=compact" alt="saracamilo" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saracamilo&show_icons=true&theme=tokyonight" alt="saracamilo" align="right" />
 </div>

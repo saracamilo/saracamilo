@@ -35,7 +35,8 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 </p>
 
 - 👩‍💻 **Analista de TI Nível 1**\
-📆 jan/2023 - fe
+📆 jan/2023
+
 📍 **Proxxi Tecnologia** - Brasil
  - Desenvolvimento de soluções em Software para o sistema do Banco Bradesco.
  - Foco na integração entre sistemas e otimização de processos administrativos.

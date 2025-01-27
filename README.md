@@ -21,6 +21,7 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 
 - 👩‍💻 **Desenvolvedora de Software**\
 📆 fev/2024 - momento\
+
 📍 **Sertão Dev** - Brasil
   - Desenvolvimento de soluções front-end e back-end para a Secretaria de Cultura do Ceará.
   - Foco na integração entre sistemas e otimização de processos administrativos.

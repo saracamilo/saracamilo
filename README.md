@@ -1,6 +1,6 @@
 # Hi, I'm Sara Camilo👋
 
-Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, especializada em criar soluções dinâmicas e eficientes. Tenho paixão por transformar ideias em soluções digitais e sou movida pelo aprendizado contínuo e pela busca por melhorias na acessibilidade e usabilidade dos sistemas.
+Desenvolvedora Full Stack com experiência em projetos de front-end, especializada em criar soluções dinâmicas e eficientes. Tenho paixão por transformar ideias em soluções digitais e sou movida pelo aprendizado contínuo e pela busca por melhorias na acessibilidade e usabilidade dos sistemas.
 
 ## 🌐 Conecte-se comigo:
 
@@ -13,7 +13,7 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 ## 👩‍💻 Sobre mim
 
 - 💼 **Atualmente:** Desenvolvedora na Sertão Dev, contribuindo para o projeto **Mapas Culturais**, uma plataforma de gestão cultural do Ceará.
-- 🎯 **Foco:** Desenvolvimento web full stack com especialização em PHP, Laravel, JavaScript HTML, CSS e React. Também trabalho com Docker e versionamento de código usando Git.
+- 🎯 **Foco:** Desenvolvimento web front end com especialização em JavaScript, HTML, CSS e React, Vue.js. Também trabalho com Docker e versionamento de código usando Git.
 - 🌱 **Aprendizado contínuo:** Sempre explorando novas tecnologias e metodologias ágeis para otimizar processos e entregar soluções de alta qualidade.
 - 🎨 **Interesses:** Desenvolvimento Front-End, criação de interfaces de usuário, design responsivo, boas práticas de programação.
 

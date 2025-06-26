@@ -26,7 +26,7 @@ Desenvolvedora Full Stack com experiência em projetos de front-end, especializa
   - Criação de interfaces com AuroraUI, HTML5, CSS3 e JavaScript para o projeto Minha Casa Melhor.
   - Foco em UX, acessibilidade e design adaptativo.
   
-- 👩‍💻 **Desenvolvedora de Software**\
+- 👩‍💻 **Desenvolvedora Front End**\
 📆 fev/2024 - momento\
 
 📍 **Sertão Dev** - Brasil

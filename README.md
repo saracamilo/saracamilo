@@ -19,13 +19,20 @@ Desenvolvedora Full Stack com experiência em projetos de front-end e back-end, 
 
 ## 💼 Experiência
 
+- 👩‍💻 **Desenvolvedora Front-End**\
+📆 fev/2025 
+
+📍 **Fiotec / Fundação Oswaldo Cruz** - Brasil
+  - Criação de interfaces com AuroraUI, HTML5, CSS3 e JavaScript para o projeto Minha Casa Melhor.
+  - Foco em UX, acessibilidade e design adaptativo.
+  
 - 👩‍💻 **Desenvolvedora de Software**\
 📆 fev/2024 - momento\
 
 📍 **Sertão Dev** - Brasil
-  - Desenvolvimento de soluções front-end e back-end para a Secretaria de Cultura do Ceará.
+  - Desenvolvimento de soluções front-end para a Secretaria de Cultura do Ceará.
   - Foco na integração entre sistemas e otimização de processos administrativos.
-  - Tecnologias: PHP, JavaScript, HTML, CSS, Vue.js, Docker, MySQL.
+  - Tecnologias: Vue.js, JavaScript, HTML, CSS, Docker, MySQL, GIT.
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>

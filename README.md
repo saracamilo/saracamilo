@@ -27,7 +27,7 @@ Desenvolvedora Full Stack com experiência em projetos de front-end, especializa
   - Foco em UX, acessibilidade e design adaptativo.
   
 - 👩‍💻 **Desenvolvedora Front End**\
-📆 fev/2024 - momento\
+📆 fev/2024
 
 📍 **Sertão Dev** - Brasil
   - Desenvolvimento de soluções front-end para a Secretaria de Cultura do Ceará.

@@ -12,7 +12,7 @@ Desenvolvedora Front-End com experiência em projetos diversos, especializada em
 
 ## 👩‍💻 Sobre mim
 
-- 💼 **Atualmente:** Desenvolvedora na Sertão Dev, contribuindo para o projeto **Mapas Culturais**, uma plataforma de gestão cultural do Ceará.
+- 💼 **Anteriormente** Desenvolvedora na Sertão Dev, contribuindo para o projeto **Mapas Culturais**, uma plataforma de gestão cultural do Ceará.
 - 🎯 **Foco:** Desenvolvimento web front end com especialização em JavaScript, HTML, CSS e React, Vue.js. Também trabalho com Docker e versionamento de código usando Git.
 - 🌱 **Aprendizado contínuo:** Sempre explorando novas tecnologias e metodologias ágeis para otimizar processos e entregar soluções de alta qualidade.
 - 🎨 **Interesses:** Desenvolvimento Front-End, criação de interfaces de usuário, design responsivo, boas práticas de programação.

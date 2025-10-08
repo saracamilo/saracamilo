@@ -1,6 +1,6 @@
 # Olá, eu sou Sara Camilo👋
 
-Desenvolvedora Full Stack com experiência em projetos de front-end, especializada em criar soluções dinâmicas e eficientes. Tenho paixão por transformar ideias em soluções digitais e sou movida pelo aprendizado contínuo e pela busca por melhorias na acessibilidade e usabilidade dos sistemas.
+Desenvolvedora Front-End com experiência em projetos diversos, especializada em criar soluções dinâmicas e eficientes. Tenho paixão por transformar ideias em soluções digitais e sou movida pelo aprendizado contínuo e pela busca por melhorias na acessibilidade e usabilidade dos sistemas.
 
 ## 🌐 Conecte-se comigo:
 

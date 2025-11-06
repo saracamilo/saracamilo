@@ -34,6 +34,19 @@ Desenvolvedora Front-End com experiência em projetos diversos, especializada em
   - Foco na integração entre sistemas e otimização de processos administrativos.
   - Tecnologias: Vue.js, JavaScript, HTML, CSS, Docker, MySQL, GIT.
 
+- 👩‍💻 **Product  Owner**\
+📆 fev/2024
+
+📍 **Sertão Dev** - Brasil
+- Gerenciamento e priorização do backlog no projeto Sistema Aurora (Secretaria da Cultura do
+Ceará), definindo escopo e prioridades junto à equipe de desenvolvimento.
+- Elaboração e refinamento de user stories e tarefas técnicas em colaboração com desenvolvedores,
+garantindo entendimento claro dos requisitos.
+- Desenvolvimento de componentes e interfaces web reutilizáveis com Vue.js, React e biblioteca
+AuroraUI, integrando APIs REST em aplicações responsivas.
+- Colaboração ativa em ambiente ágil (Scrum/Kanban), promovendo comunicação transparente entre o
+time técnico e stakeholders.
+
 - 👩‍💻 **Analista de TI Nível 1**\
 📆 jan/2023 - jan/2024
 

@@ -20,11 +20,22 @@ Desenvolvedora Front-End com experiência em projetos diversos, especializada em
 ## 💼 Experiência
 
 - 👩‍💻 **Desenvolvedora Front-End**\
-📆 fev/2025 
+📆 fev/2025
 
 📍 **Fiotec / Fundação Oswaldo Cruz** - Brasil
   - Criação de interfaces com AuroraUI, HTML5, CSS3 e JavaScript para o projeto Minha Casa Melhor.
   - Foco em UX, acessibilidade e design adaptativo.
+
+- 👩‍💻 **Product  Owner**\
+📆 fev/2025
+
+📍 **Fiotec / Fundação Oswaldo Cruz** - Brasil
+- Organização do board do projeto e mapeamento do fluxo de trabalho, levantando requisitos de
+negócio e definindo prioridades junto aos stakeholders.
+- Desenvolvimento front-end da plataforma Minha Casa Melhor (projeto de saneamento básico da
+Fiocruz) utilizando HTML5, CSS3 e AuroraUI, assegurando acessibilidade e design responsivo.
+- Colaboração com equipes multidisciplinares (design, desenvolvimento e clientes) para alinhar as
+entregas do produto às necessidades dos usuários e objetivos institucionais.
   
 - 👩‍💻 **Desenvolvedora Front End**\
 📆 fev/2024
